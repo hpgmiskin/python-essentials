@@ -1,4 +1,4 @@
-# THis is an introduction to basic computing concetps
+# THis is an introduction to basic data structures
 
 # Here is are some variables (they are being assigned)
 myInt = 10 
