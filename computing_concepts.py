@@ -1,7 +1,7 @@
 import utilities
 # Basic computing concepts
 
-# Itteration
+# Iteration
 # ======================================================================
 utilities.printHeading('Itteration')
 
